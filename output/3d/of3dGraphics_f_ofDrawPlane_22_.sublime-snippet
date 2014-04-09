@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ofDrawPlane(${1:float width},${2:float height}); ]]></content>
+    <tabTrigger>ofDrawPlane(${1:float width},${2:float height})</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void of3dGraphics_f::ofDrawPlane()</description>
+</snippet>

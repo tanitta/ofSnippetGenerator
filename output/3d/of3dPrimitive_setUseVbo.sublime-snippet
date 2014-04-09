@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setUseVbo(${1:const ofVec3f &lookAtPosition},${2:ofVec3f upVector=ofVec3f(0, 1, 0)}); ]]></content>
-    <tabTrigger>setUseVbo(${1:const ofVec3f &lookAtPosition},${2:ofVec3f upVector=ofVec3f(0, 1, 0)})</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void of3dPrimitive::setUseVbo()</description>
-</snippet>

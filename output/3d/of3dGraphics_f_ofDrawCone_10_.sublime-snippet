@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ofDrawCone(${1:float radius},${2:float height}); ]]></content>
+    <tabTrigger>ofDrawCone(${1:float radius},${2:float height})</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void of3dGraphics_f::ofDrawCone()</description>
+</snippet>

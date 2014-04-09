@@ -1,3 +1,17 @@
+_documentation/3d/
+_documentation/addons/
+_documentation/application/
+_documentation/communication/
+_documentation/events/
+_documentation/gl/
+_documentation/graphics/
+_documentation/math/
+_documentation/sound/
+_documentation/types/
+_documentation/utils/
+_documentation/video/
+
+
 #################
 ## Eclipse
 #################

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ofSetSphereResolution(${1:int res}); ]]></content>
+    <tabTrigger>ofSetSphereResolution(${1:int res})</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void of3dGraphics_f::ofSetSphereResolution()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ofDrawBox(${1:const ofPoint &position},${2:float size}); ]]></content>
+    <tabTrigger>ofDrawBox(${1:const ofPoint &position},${2:float size})</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void of3dGraphics_f::ofDrawBox()</description>
+</snippet>
