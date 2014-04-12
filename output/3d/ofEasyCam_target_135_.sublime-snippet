@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[target; ]]></content>
+    <tabTrigger>target</tabTrigger>
+    <scope>source.c++</scope>
+    <description>ofNode ofEasyCam::target</description>
+</snippet>

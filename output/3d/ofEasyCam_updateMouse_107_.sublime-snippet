@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[updateMouse(); ]]></content>
+    <tabTrigger>updateMouse()</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void ofEasyCam::updateMouse()</description>
+</snippet>

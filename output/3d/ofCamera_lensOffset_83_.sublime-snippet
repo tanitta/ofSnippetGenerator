@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[lensOffset; ]]></content>
+    <tabTrigger>lensOffset</tabTrigger>
+    <scope>source.c++</scope>
+    <description>ofVec2f ofCamera::lensOffset</description>
+</snippet>

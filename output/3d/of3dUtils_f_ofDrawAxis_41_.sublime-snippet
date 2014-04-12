@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ofDrawAxis(${1:float size}); ]]></content>
+    <tabTrigger>ofDrawAxis(float size)</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void of3dUtils_f::ofDrawAxis()</description>
+</snippet>

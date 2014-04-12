@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setFov(${1:float f}); ]]></content>
+    <tabTrigger>setFov(float f)</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void ofCamera::setFov()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setVFlip(${1:bool vflip}); ]]></content>
+    <tabTrigger>setVFlip(bool vflip)</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void ofCamera::setVFlip()</description>
+</snippet>

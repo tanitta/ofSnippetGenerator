@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getDrag(); ]]></content>
+    <tabTrigger>getDrag()</tabTrigger>
+    <scope>source.c++</scope>
+    <description>float ofEasyCam::getDrag()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTexCoord(${1:int index}); ]]></content>
+    <tabTrigger>getTexCoord(int index)</tabTrigger>
+    <scope>source.c++</scope>
+    <description>const ofVec2f & ofMeshFace::getTexCoord()</description>
+</snippet>

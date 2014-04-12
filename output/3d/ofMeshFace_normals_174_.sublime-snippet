@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[normals; ]]></content>
+    <tabTrigger>normals</tabTrigger>
+    <scope>source.c++</scope>
+    <description>ofVec3f ofMeshFace::normals</description>
+</snippet>

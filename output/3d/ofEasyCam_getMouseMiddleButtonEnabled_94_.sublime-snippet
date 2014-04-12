@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getMouseMiddleButtonEnabled(); ]]></content>
+    <tabTrigger>getMouseMiddleButtonEnabled()</tabTrigger>
+    <scope>source.c++</scope>
+    <description>bool ofEasyCam::getMouseMiddleButtonEnabled()</description>
+</snippet>

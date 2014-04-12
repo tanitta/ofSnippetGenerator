@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setRadius(${1:float radius}); ]]></content>
+    <tabTrigger>setRadius(float radius)</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void ofIcoSpherePrimitive::setRadius()</description>
+</snippet>

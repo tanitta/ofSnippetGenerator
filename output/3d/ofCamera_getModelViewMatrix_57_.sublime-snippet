@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getModelViewMatrix(); ]]></content>
+    <tabTrigger>getModelViewMatrix()</tabTrigger>
+    <scope>source.c++</scope>
+    <description>ofMatrix4x4 ofCamera::getModelViewMatrix()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[moveX; ]]></content>
+    <tabTrigger>moveX</tabTrigger>
+    <scope>source.c++</scope>
+    <description>float ofEasyCam::moveX</description>
+</snippet>

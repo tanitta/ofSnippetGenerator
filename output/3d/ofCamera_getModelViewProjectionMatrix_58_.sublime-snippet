@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getModelViewProjectionMatrix(${1:ofRectangle viewport=ofGetCurrentViewport()}); ]]></content>
+    <tabTrigger>getModelViewProjectionMatrix(ofRectangle viewport=ofGetCurrentViewport())</tabTrigger>
+    <scope>source.c++</scope>
+    <description>ofMatrix4x4 ofCamera::getModelViewProjectionMatrix()</description>
+</snippet>

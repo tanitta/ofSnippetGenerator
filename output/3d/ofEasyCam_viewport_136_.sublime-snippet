@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[viewport; ]]></content>
+    <tabTrigger>viewport</tabTrigger>
+    <scope>source.c++</scope>
+    <description>ofRectangle ofEasyCam::viewport</description>
+</snippet>

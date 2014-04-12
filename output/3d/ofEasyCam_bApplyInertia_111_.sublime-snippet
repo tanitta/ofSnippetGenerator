@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[bApplyInertia; ]]></content>
+    <tabTrigger>bApplyInertia</tabTrigger>
+    <scope>source.c++</scope>
+    <description>bool ofEasyCam::bApplyInertia</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getImagePlaneDistance(${1:ofRectangle viewport=ofGetCurrentViewport()}); ]]></content>
+    <tabTrigger>getImagePlaneDistance(ofRectangle viewport=ofGetCurrentViewport())</tabTrigger>
+    <scope>source.c++</scope>
+    <description>float ofCamera::getImagePlaneDistance()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ofEasyCam(); ]]></content>
+    <tabTrigger>ofEasyCam()</tabTrigger>
+    <scope>source.c++</scope>
+    <description> ofEasyCam::ofEasyCam()</description>
+</snippet>

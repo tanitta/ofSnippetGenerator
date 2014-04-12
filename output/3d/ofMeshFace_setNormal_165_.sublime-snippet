@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setNormal(${1:int index},${2:const ofVec3f &n}); ]]></content>
+    <tabTrigger>setNormal(int index,const ofVec3f &n)</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void ofMeshFace::setNormal()</description>
+</snippet>

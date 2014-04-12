@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[hasNormals(); ]]></content>
+    <tabTrigger>hasNormals()</tabTrigger>
+    <scope>source.c++</scope>
+    <description>bool ofMeshFace::hasNormals()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setupPerspective(${1:bool vFlip=true},${2:float fov=60},${3:float nearDist=0},${4:float farDist=0},${5:const ofVec2f &lensOffset=ofVec2f(0.0f, 0.0f)}); ]]></content>
+    <tabTrigger>setupPerspective(bool vFlip=true,float fov=60,float nearDist=0,float farDist=0,const ofVec2f &lensOffset=ofVec2f(0.0f, 0.0f))</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void ofCamera::setupPerspective()</description>
+</snippet>

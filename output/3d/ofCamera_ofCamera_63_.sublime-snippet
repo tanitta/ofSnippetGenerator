@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ofCamera(); ]]></content>
+    <tabTrigger>ofCamera()</tabTrigger>
+    <scope>source.c++</scope>
+    <description> ofCamera::ofCamera()</description>
+</snippet>

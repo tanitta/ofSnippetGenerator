@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setAspectRatio(${1:float aspectRatio}); ]]></content>
+    <tabTrigger>setAspectRatio(float aspectRatio)</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void ofCamera::setAspectRatio()</description>
+</snippet>

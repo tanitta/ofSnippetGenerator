@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTranslationKey(${1:char key}); ]]></content>
+    <tabTrigger>setTranslationKey(char key)</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void ofEasyCam::setTranslationKey()</description>
+</snippet>

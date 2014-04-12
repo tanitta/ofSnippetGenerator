@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[enableOrtho(); ]]></content>
+    <tabTrigger>enableOrtho()</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void ofCamera::enableOrtho()</description>
+</snippet>

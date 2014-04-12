@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getTarget(); ]]></content>
+    <tabTrigger>getTarget()</tabTrigger>
+    <scope>source.c++</scope>
+    <description>ofNode & ofEasyCam::getTarget()</description>
+</snippet>

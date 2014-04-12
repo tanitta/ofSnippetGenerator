@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[getNormal(${1:int index}); ]]></content>
+    <tabTrigger>getNormal(int index)</tabTrigger>
+    <scope>source.c++</scope>
+    <description>const ofVec3f & ofMeshFace::getNormal()</description>
+</snippet>

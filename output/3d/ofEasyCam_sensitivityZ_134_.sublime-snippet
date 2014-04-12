@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[sensitivityZ; ]]></content>
+    <tabTrigger>sensitivityZ</tabTrigger>
+    <scope>source.c++</scope>
+    <description>float ofEasyCam::sensitivityZ</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[ofDrawArrow(${1:const ofVec3f &start},${2:const ofVec3f &end},${3:float headSize=0.05f}); ]]></content>
+    <tabTrigger>ofDrawArrow(const ofVec3f &start,const ofVec3f &end,float headSize=0.05f)</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void of3dUtils_f::ofDrawArrow()</description>
+</snippet>

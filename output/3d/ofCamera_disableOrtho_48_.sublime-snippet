@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[disableOrtho(); ]]></content>
+    <tabTrigger>disableOrtho()</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void ofCamera::disableOrtho()</description>
+</snippet>

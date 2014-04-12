@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[bInsideArcball; ]]></content>
+    <tabTrigger>bInsideArcball</tabTrigger>
+    <scope>source.c++</scope>
+    <description>bool ofEasyCam::bInsideArcball</description>
+</snippet>

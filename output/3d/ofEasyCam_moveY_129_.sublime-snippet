@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[moveY; ]]></content>
+    <tabTrigger>moveY</tabTrigger>
+    <scope>source.c++</scope>
+    <description>float ofEasyCam::moveY</description>
+</snippet>

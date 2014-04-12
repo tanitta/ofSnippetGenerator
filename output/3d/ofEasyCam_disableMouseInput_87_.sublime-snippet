@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[disableMouseInput(); ]]></content>
+    <tabTrigger>disableMouseInput()</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void ofEasyCam::disableMouseInput()</description>
+</snippet>

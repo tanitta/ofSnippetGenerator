@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[enableMouseInput(); ]]></content>
+    <tabTrigger>enableMouseInput()</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void ofEasyCam::enableMouseInput()</description>
+</snippet>

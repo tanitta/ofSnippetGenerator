@@ -5,15 +5,15 @@ strPathInput = {
 	--3d
 	{className = "of3dGraphics_f", folder = "3d", file = "of3dGraphics_functions.markdown"},
 	-- {className = "of3dPrimitive", folder = "3d", file = "of3dPrimitive.markdown"},
-	-- {className = "of3dUtils_f", folder = "3d", file = "of3dUtils_functions.markdown"},
+	{className = "of3dUtils_f", folder = "3d", file = "of3dUtils_functions.markdown"},
 	-- {className = "ofBoxPrimitive", folder = "3d", file = "ofBoxPrimitive.markdown"},
-	-- {className = "ofCamera", folder = "3d", file = "ofCamera.markdown"},
+	{className = "ofCamera", folder = "3d", file = "ofCamera.markdown"},
 	-- {className = "ofConePrimitive", folder = "3d", file = "ofConePrimitive.markdown"},
 	-- {className = "ofCylinderPrimitive", folder = "3d", file = "ofCylinderPrimitive.markdown"},
-	-- {className = "ofEasyCam", folder = "3d", file = "ofEasyCam.markdown"},
-	-- {className = "ofIcoSpherePrimitive", folder = "3d", file = "ofIcoSpherePrimitive.markdown"},
+	{className = "ofEasyCam", folder = "3d", file = "ofEasyCam.markdown"},
+	{className = "ofIcoSpherePrimitive", folder = "3d", file = "ofIcoSpherePrimitive.markdown"},
 	-- {className = "ofMesh", folder = "3d", file = "ofMesh.markdown"},
-	-- {className = "ofMeshFace", folder = "3d", file = "ofMeshFace.markdown"},
+	{className = "ofMeshFace", folder = "3d", file = "ofMeshFace.markdown"},
 	-- {className = "ofMesh_f", folder = "3d", file = "ofMesh_functions.markdown"},
 	-- {className = "ofNode", folder = "3d", file = "ofNode.markdown"},
 	-- {className = "ofPlanePrimitive", folder = "3d", file = "ofPlanePrimitive.markdown"},
@@ -316,24 +316,31 @@ function OutputData(i)
 	strMethodBracket = "" 
 	
 	strParamaters = ""
+	strParamatersRaw = "" 
 	if type(data[i].paramaters) == "table" then
 		strMethodBracket = "()"
 		strParamaters = "("
+		strParamatersRaw = "("
 		for k = 1,#data[i].paramaters do
 			if(k == #data[i].paramaters)then
 				strParamaters = strParamaters .. "${"..k..":"..data[i].paramaters[k].."}"
+				strParamatersRaw = strParamatersRaw ..data[i].paramaters[k]
 			else
 				strParamaters = strParamaters .. "${"..k..":"..data[i].paramaters[k] .."}".. ","
+				strParamatersRaw = strParamatersRaw ..data[i].paramaters[k]..","
+				
 			end
 		end
 		strParamaters = strParamaters .. ")"
+		strParamatersRaw = strParamatersRaw .. ")"
+
 	end
 	
 	
 	data[i].string = 
 [==[<snippet>
     <content><![CDATA[]==]..data[i].name..strParamaters..[==[; ]]></content>
-    <tabTrigger>]==]..data[i].name..strParamaters..[==[</tabTrigger>
+    <tabTrigger>]==]..data[i].name..strParamatersRaw..[==[</tabTrigger>
     <scope>source.c++</scope>
     <description>]==]..data[i].returns.." "..data[i].className.."::"..data[i].name..strMethodBracket..[==[</description>
 </snippet>]==]

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[lastDistance; ]]></content>
+    <tabTrigger>lastDistance</tabTrigger>
+    <scope>source.c++</scope>
+    <description>float ofEasyCam::lastDistance</description>
+</snippet>

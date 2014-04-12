@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[isVFlipped(); ]]></content>
+    <tabTrigger>isVFlipped()</tabTrigger>
+    <scope>source.c++</scope>
+    <description>bool ofCamera::isVFlipped()</description>
+</snippet>

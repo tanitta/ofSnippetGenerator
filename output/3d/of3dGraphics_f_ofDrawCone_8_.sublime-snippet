@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[ofDrawCone(${1:float x},${2:float y},${3:float radius},${4:float height}); ]]></content>
-    <tabTrigger>ofDrawCone(${1:float x},${2:float y},${3:float radius},${4:float height})</tabTrigger>
+    <tabTrigger>ofDrawCone(float x,float y,float radius,float height)</tabTrigger>
     <scope>source.c++</scope>
     <description>void of3dGraphics_f::ofDrawCone()</description>
 </snippet>

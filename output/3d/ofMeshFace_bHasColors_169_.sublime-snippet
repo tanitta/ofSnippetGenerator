@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[bHasColors; ]]></content>
+    <tabTrigger>bHasColors</tabTrigger>
+    <scope>source.c++</scope>
+    <description>bool ofMeshFace::bHasColors</description>
+</snippet>

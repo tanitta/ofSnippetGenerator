@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setVertex(${1:int index},${2:const ofVec3f &v}); ]]></content>
+    <tabTrigger>setVertex(int index,const ofVec3f &v)</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void ofMeshFace::setVertex()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[bMouseInputEnabled; ]]></content>
+    <tabTrigger>bMouseInputEnabled</tabTrigger>
+    <scope>source.c++</scope>
+    <description>bool ofEasyCam::bMouseInputEnabled</description>
+</snippet>

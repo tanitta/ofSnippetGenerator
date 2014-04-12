@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[nearClip; ]]></content>
+    <tabTrigger>nearClip</tabTrigger>
+    <scope>source.c++</scope>
+    <description>float ofCamera::nearClip</description>
+</snippet>

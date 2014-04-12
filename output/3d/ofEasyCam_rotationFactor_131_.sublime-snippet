@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[rotationFactor; ]]></content>
+    <tabTrigger>rotationFactor</tabTrigger>
+    <scope>source.c++</scope>
+    <description>float ofEasyCam::rotationFactor</description>
+</snippet>

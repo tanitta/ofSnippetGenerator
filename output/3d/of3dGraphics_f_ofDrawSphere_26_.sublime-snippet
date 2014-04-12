@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[ofDrawSphere(${1:float radius}); ]]></content>
-    <tabTrigger>ofDrawSphere(${1:float radius})</tabTrigger>
+    <tabTrigger>ofDrawSphere(float radius)</tabTrigger>
     <scope>source.c++</scope>
     <description>void of3dGraphics_f::ofDrawSphere()</description>
 </snippet>

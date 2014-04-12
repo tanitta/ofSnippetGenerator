@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[colors; ]]></content>
+    <tabTrigger>colors</tabTrigger>
+    <scope>source.c++</scope>
+    <description>ofFloatColor ofMeshFace::colors</description>
+</snippet>

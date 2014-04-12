@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[ofDrawCylinder(${1:float x},${2:float y},${3:float z},${4:float radius},${5:float height}); ]]></content>
-    <tabTrigger>ofDrawCylinder(${1:float x},${2:float y},${3:float z},${4:float radius},${5:float height})</tabTrigger>
+    <tabTrigger>ofDrawCylinder(float x,float y,float z,float radius,float height)</tabTrigger>
     <scope>source.c++</scope>
     <description>void of3dGraphics_f::ofDrawCylinder()</description>
 </snippet>

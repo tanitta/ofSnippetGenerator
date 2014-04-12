@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[setTarget(${1:ofNode &target}); ]]></content>
+    <tabTrigger>setTarget(ofNode &target)</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void ofEasyCam::setTarget()</description>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[calcClipPlanes(${1:ofRectangle viewport}); ]]></content>
+    <tabTrigger>calcClipPlanes(ofRectangle viewport)</tabTrigger>
+    <scope>source.c++</scope>
+    <description>void ofCamera::calcClipPlanes()</description>
+</snippet>

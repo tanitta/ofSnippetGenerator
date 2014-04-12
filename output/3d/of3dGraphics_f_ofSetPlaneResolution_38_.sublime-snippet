@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[ofSetPlaneResolution(${1:int columns},${2:int rows}); ]]></content>
-    <tabTrigger>ofSetPlaneResolution(${1:int columns},${2:int rows})</tabTrigger>
+    <tabTrigger>ofSetPlaneResolution(int columns,int rows)</tabTrigger>
     <scope>source.c++</scope>
     <description>void of3dGraphics_f::ofSetPlaneResolution()</description>
 </snippet>
