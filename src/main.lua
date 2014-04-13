@@ -310,6 +310,7 @@ function ReadText(strPathInputIndex)
 		tabInputData.className = strPathInput[strPathInputIndex].className
 		tabInputData.returns  = returns--!
 		tabInputData.paramaters  = paramaters--! valueの時はnil
+		print(type(tabInputData.paramaters))
 		tabInputData.string = ""
 		table.insert(data,tabInputData)
 		strRaw = string.sub(strRaw, last)
@@ -332,7 +333,7 @@ end
 
 function OutputData(i)
 	local strFile = "../output/"..data[i].folder.."/"..data[i].className.."_"..i.."_"..".sublime-snippet"
-	print(strFile)
+	-- print(strFile)
 	out = io.open(strFile,"w")
 	
 	strMethodBracket = "" 
@@ -378,10 +379,15 @@ function OutputData(i)
 	strParamatersRaw = string.gsub(strParamatersRaw,"&","&amp;")
 	strParamatersRaw = string.gsub(strParamatersRaw,"<","&lt;")
 	strParamatersRaw = string.gsub(strParamatersRaw,">","&gt;")
-	if data[i].className == "" then
+	
+	if data[i].returns == "void" or data[i].returns == "" then--返り値がvoidとコンストラクタ・デストラクタの場合
+		strParamaters = strParamaters .. ";"
+	end
+	
+	if data[i].className == "" then --global functions
 		data[i].string = 
 [==[<snippet>
-    <content><![CDATA[]==]..data[i].name..strParamaters..[==[; ]]></content>
+    <content><![CDATA[]==]..data[i].name..strParamaters..[==[]]></content>
     <tabTrigger>]==]..data[i].name..strParamatersRaw..[==[</tabTrigger>
     <scope>source.c++</scope>
     <description>]==]..data[i].returns.." "..data[i].name..strMethodBracket..[==[</description>
@@ -389,7 +395,7 @@ function OutputData(i)
 	else
 		data[i].string = 
 [==[<snippet>
-    <content><![CDATA[]==]..data[i].name..strParamaters..[==[; ]]></content>
+    <content><![CDATA[]==]..data[i].name..strParamaters..[==[]]></content>
     <tabTrigger>]==]..data[i].name..strParamatersRaw..[==[</tabTrigger>
     <scope>source.c++</scope>
     <description>]==]..data[i].returns.." "..data[i].className.."::"..data[i].name..strMethodBracket..[==[</description>
