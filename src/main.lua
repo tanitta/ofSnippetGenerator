@@ -2,14 +2,14 @@ strPathInput1 = "../_documentation"
 
 strPathInput_ = {
 	{className = "ofImage_", folder = "graphics", file = "ofImage_.markdown"},
-	-- {className = "ofImage_f", folder = "graphics", file = "ofImage_functions.markdown"},
+	-- {classNamenil, folder = "graphics", file = "ofImage_functions.markdown"},
 
 }
 strPathInput = {
 	--3d
-	{className = "of3dGraphics_f", folder = "3d", file = "of3dGraphics_functions.markdown"},
+	{className = "", folder = "3d", file = "of3dGraphics_functions.markdown"},
 	{className = "of3dPrimitive", folder = "3d", file = "of3dPrimitive.markdown"},
-	{className = "of3dUtils_f", folder = "3d", file = "of3dUtils_functions.markdown"},
+	{className = "", folder = "3d", file = "of3dUtils_functions.markdown"},
 	{className = "ofBoxPrimitive", folder = "3d", file = "ofBoxPrimitive.markdown"},
 	{className = "ofCamera", folder = "3d", file = "ofCamera.markdown"},
 	{className = "ofConePrimitive", folder = "3d", file = "ofConePrimitive.markdown"},
@@ -18,7 +18,7 @@ strPathInput = {
 	{className = "ofIcoSpherePrimitive", folder = "3d", file = "ofIcoSpherePrimitive.markdown"},
 	{className = "ofMesh", folder = "3d", file = "ofMesh.markdown"},
 	{className = "ofMeshFace", folder = "3d", file = "ofMeshFace.markdown"},
-	{className = "ofMesh_f", folder = "3d", file = "ofMesh_functions.markdown"},
+	{className = "", folder = "3d", file = "ofMesh_functions.markdown"},
 	{className = "ofNode", folder = "3d", file = "ofNode.markdown"},
 	{className = "ofPlanePrimitive", folder = "3d", file = "ofPlanePrimitive.markdown"},
 	{className = "ofSpherePrimitive", folder = "3d", file = "ofSpherePrimitive.markdown"},
@@ -29,7 +29,7 @@ strPathInput = {
 	{className = "ofAppGLFWWindow", folder = "application", file = "ofAppGLFWWindow.markdown"},
 	{className = "ofAppGlutWindow", folder = "application", file = "ofAppGlutWindow.markdown"},
 	{className = "ofAppNoWindow", folder = "application", file = "ofAppNoWindow.markdown"},
-	{className = "ofAppRunner_f", folder = "application", file = "ofAppRunner_functions.markdown"},
+	{className = "", folder = "application", file = "ofAppRunner_functions.markdown"},
 	{className = "ofBaseApp", folder = "application", file = "ofBaseApp.markdown"},
 	{className = "ofAppBaseWindow", folder = "application", file = "ofAppBaseWindow.markdown"},
 	{className = "ofDragInfo", folder = "application", file = "ofDragInfo.markdown"},
@@ -47,8 +47,8 @@ strPathInput = {
 	{className = "ofEvent", folder = "events", file = "ofEvent.markdown"},
 	{className = "ofEventArgs", folder = "events", file = "ofEventArgs.markdown"},
 	{className = "ofEventAttendedException", folder = "events", file = "ofEventAttendedException.markdown"},
-	{className = "ofEventUtils_f", folder = "events", file = "ofEventUtils_functions.markdown"},
-	{className = "ofEvents_f", folder = "events", file = "ofEvents_functions.markdown"},
+	{className = "", folder = "events", file = "ofEventUtils_functions.markdown"},
+	{className = "", folder = "events", file = "ofEvents_functions.markdown"},
 	{className = "ofKeyEventArgs", folder = "events", file = "ofKeyEventArgs.markdown"},
 	{className = "ofMessage", folder = "events", file = "ofMessage.markdown"},
 	{className = "ofMouseEventArgs", folder = "events", file = "ofMouseEventArgs.markdown"},
@@ -59,23 +59,23 @@ strPathInput = {
 	{className = "ofFbo", folder = "gl", file = "ofFbo.markdown"},
 	{className = "ofGLProgrammableRenderer", folder = "gl", file = "ofGLProgrammableRenderer.markdown"},
 	{className = "ofGLRenderer", folder = "gl", file = "ofGLRenderer.markdown"},
-	{className = "ofGLUtils_f", folder = "gl", file = "ofGLUtils_functions.markdown"},
+	{className = "", folder = "gl", file = "ofGLUtils_functions.markdown"},
 	{className = "ofLight", folder = "gl", file = "ofLight.markdown"},
-	{className = "ofLight_f", folder = "gl", file = "ofLight_functions.markdown"},
+	{className = "", folder = "gl", file = "ofLight_functions.markdown"},
 	{className = "ofMaterial", folder = "gl", file = "ofMaterial.markdown"},
 	{className = "ofShader", folder = "gl", file = "ofShader.markdown"},
 	{className = "ofTexture", folder = "gl", file = "ofTexture.markdown"},
 	{className = "ofTextureData", folder = "gl", file = "ofTextureData.markdown"},
-	{className = "ofTexture_f", folder = "gl", file = "ofTexture_functions.markdown"},
+	{className = "", folder = "gl", file = "ofTexture_functions.markdown"},
 	{className = "ofVbo", folder = "gl", file = "ofVbo.markdown"},
 	{className = "ofVboMesh", folder = "gl", file = "ofVboMesh.markdown"},
 	
 	--graphics
-	{className = "ofBitmapFont_f", folder = "graphics", file = "ofBitmapFont_functions.markdown"},
+	{className = "", folder = "graphics", file = "ofBitmapFont_functions.markdown"},
 	{className = "ofCairoRenderer", folder = "graphics", file = "ofCairoRenderer.markdown"},
-	{className = "ofGraphics_f", folder = "graphics", file = "ofGraphics_functions.markdown"},
+	{className = "", folder = "graphics", file = "ofGraphics_functions.markdown"},
 	{className = "ofImage_", folder = "graphics", file = "ofImage_.markdown"},
-	{className = "ofImage_f", folder = "graphics", file = "ofImage_functions.markdown"},
+	{className = "", folder = "graphics", file = "ofImage_functions.markdown"},
 	{className = "ofPath", folder = "graphics", file = "ofPath.markdown"},
 	{className = "ofPixels_", folder = "graphics", file = "ofPixels_.markdown"},
 	{className = "ofPolyline", folder = "graphics", file = "ofPolyline.markdown"},
@@ -86,29 +86,29 @@ strPathInput = {
 	
 	--math
 	{className = "ofMath", folder = "math", file = "ofMath.markdown"},
-	{className = "ofMath_f", folder = "math", file = "ofMath_functions.markdown"},
+	{className = "", folder = "math", file = "ofMath_functions.markdown"},
 	{className = "ofMatrix3x3", folder = "math", file = "ofMatrix3x3.markdown"},
 	{className = "ofMatrix4x4", folder = "math", file = "ofMatrix4x4.markdown"},
-	{className = "ofMatrix4x4_f", folder = "math", file = "ofMatrix4x4_functions.markdown"},
-	{className = "ofNoise_f", folder = "math", file = "ofNoise_functions.markdown"},
+	{className = "", folder = "math", file = "ofMatrix4x4_functions.markdown"},
+	{className = "", folder = "math", file = "ofNoise_functions.markdown"},
 	{className = "ofQuaternion", folder = "math", file = "ofQuaternion.markdown"},
 	{className = "ofVec2f", folder = "math", file = "ofVec2f.markdown"},
-	{className = "ofVec2f_f", folder = "math", file = "ofVec2f_functions.markdown"},
+	{className = "", folder = "math", file = "ofVec2f_functions.markdown"},
 	{className = "ofVec3f", folder = "math", file = "ofVec3f.markdown"},
-	{className = "ofVec3f_f", folder = "math", file = "ofVec3f_functions.markdown"},
+	{className = "", folder = "math", file = "ofVec3f_functions.markdown"},
 	{className = "ofVec4f", folder = "math", file = "ofVec4f.markdown"},
-	{className = "ofVec4f_f", folder = "math", file = "ofVec4f_functions.markdown"},
+	{className = "", folder = "math", file = "ofVec4f_functions.markdown"},
 	
 	--sound
 	{className = "ofFmodSoundPlayer", folder = "sound", file = "ofFmodSoundPlayer.markdown"},
-	{className = "ofFmodSoundPlayer_f", folder = "sound", file = "ofFmodSoundPlayer_functions.markdown"},
+	{className = "", folder = "sound", file = "ofFmodSoundPlayer_functions.markdown"},
 	{className = "ofOpenALSoundPlayer", folder = "sound", file = "ofOpenALSoundPlayer.markdown"},
 	{className = "ofPASoundStream", folder = "sound", file = "ofPASoundStream.markdown"},
 	{className = "ofRtAudioSoundStream", folder = "sound", file = "ofRtAudioSoundStream.markdown"},
 	{className = "ofSoundPlayer", folder = "sound", file = "ofSoundPlayer.markdown"},
-	{className = "ofSoundPlayer_f", folder = "sound", file = "ofSoundPlayer_functions.markdown"},
+	{className = "", folder = "sound", file = "ofSoundPlayer_functions.markdown"},
 	{className = "ofSoundStream", folder = "sound", file = "ofSoundStream.markdown"},
-	{className = "ofSoundStream_f", folder = "sound", file = "ofSoundStream_functions.markdown"},
+	{className = "", folder = "sound", file = "ofSoundStream_functions.markdown"},
 	{className = "ofxiPhoneSoundStream", folder = "sound", file = "ofxiPhoneSoundStream.markdown"},
 	
 	--types
@@ -139,10 +139,10 @@ strPathInput = {
 	{className = "ofPtr", folder = "types", file = "ofPtr.markdown"},
 	{className = "ofReadOnlyParameter", folder = "types", file = "ofReadOnlyParameter.markdown"},
 	{className = "ofRectangle", folder = "types", file = "ofRectangle.markdown"},
-	{className = "ofRectangle_f", folder = "types", file = "ofRectangle_functions.markdown"},
+	{className = "", folder = "types", file = "ofRectangle_functions.markdown"},
 	{className = "ofSerialDeviceInfo", folder = "types", file = "ofSerialDeviceInfo.markdown"},
 	{className = "ofStyle", folder = "types", file = "ofStyle.markdown"},
-	{className = "ofTypes_f", folder = "types", file = "ofTypes_functions.markdown"},
+	{className = "", folder = "types", file = "ofTypes_functions.markdown"},
 	
 	--utils
 	{className = "ExtensionComparator", folder = "utils", file = "ExtensionComparator.markdown"},
@@ -153,7 +153,7 @@ strPathInput = {
 	{className = "ofFileDialogResult", folder = "utils", file = "ofFileDialogResult.markdown"},
 	{className = "ofFileLoggerChannel", folder = "utils", file = "ofFileLoggerChannel.markdown"},
 	{className = "ofFilePath", folder = "utils", file = "ofFilePath.markdown"},
-	{className = "ofFileUtils_f", folder = "utils", file = "ofFileUtils_functions.markdown"},
+	{className = "", folder = "utils", file = "ofFileUtils_functions.markdown"},
 	{className = "ofHttpRequest", folder = "utils", file = "ofHttpRequest.markdown"},
 	{className = "ofHttpResponse", folder = "utils", file = "ofHttpResponse.markdown"},
 	{className = "ofLog", folder = "utils", file = "ofLog.markdown"},
@@ -162,13 +162,13 @@ strPathInput = {
 	{className = "ofLogNotice", folder = "utils", file = "ofLogNotice.markdown"},
 	{className = "ofLogVerbose", folder = "utils", file = "ofLogVerbose.markdown"},
 	{className = "ofLogWarning", folder = "utils", file = "ofLogWarning.markdown"},
-	{className = "ofLog_f", folder = "utils", file = "ofLog_functions.markdown"},
+	{className = "", folder = "utils", file = "ofLog_functions.markdown"},
 	{className = "ofMatrixStack", folder = "utils", file = "ofMatrixStack.markdown"},
-	{className = "ofSystemUtils_f", folder = "utils", file = "ofSystemUtils_functions.markdown"},
+	{className = "", folder = "utils", file = "ofSystemUtils_functions.markdown"},
 	{className = "ofThread", folder = "utils", file = "ofThread.markdown"},
 	{className = "ofURLFileLoader", folder = "utils", file = "ofURLFileLoader.markdown"},
-	{className = "ofURLFileLoader_f", folder = "utils", file = "ofURLFileLoader_functions.markdown"},
-	{className = "ofUtils_f", folder = "utils", file = "ofUtils_functions.markdown"},
+	{className = "", folder = "utils", file = "ofURLFileLoader_functions.markdown"},
+	{className = "", folder = "utils", file = "ofUtils_functions.markdown"},
 	{className = "ofXml", folder = "utils", file = "ofXml.markdown"},
 	
 	--video
@@ -358,14 +358,43 @@ function OutputData(i)
 
 	end
 	
+
+	data[i].name = string.gsub(data[i].name,"&","&amp;")
+	data[i].name = string.gsub(data[i].name,"<","&lt;")
+	data[i].name = string.gsub(data[i].name,">","&gt;")
 	
-	data[i].string = 
+	data[i].returns = string.gsub(data[i].returns,"&","&amp;")
+	data[i].returns = string.gsub(data[i].returns,"<","&lt;")
+	data[i].returns = string.gsub(data[i].returns,">","&gt;")
+
+	data[i].className = string.gsub(data[i].className,"&","&amp;")
+	data[i].className = string.gsub(data[i].className,"<","&lt;")
+	data[i].className = string.gsub(data[i].className,">","&gt;")
+	
+	strParamaters = string.gsub(strParamaters,"&","&amp;")
+	strParamaters = string.gsub(strParamaters,"<","&lt;")
+	strParamaters = string.gsub(strParamaters,">","&gt;")
+	
+	strParamatersRaw = string.gsub(strParamatersRaw,"&","&amp;")
+	strParamatersRaw = string.gsub(strParamatersRaw,"<","&lt;")
+	strParamatersRaw = string.gsub(strParamatersRaw,">","&gt;")
+	if data[i].className == "" then
+		data[i].string = 
+[==[<snippet>
+    <content><![CDATA[]==]..data[i].name..strParamaters..[==[; ]]></content>
+    <tabTrigger>]==]..data[i].name..strParamatersRaw..[==[</tabTrigger>
+    <scope>source.c++</scope>
+    <description>]==]..data[i].returns.." "..data[i].name..strMethodBracket..[==[</description>
+</snippet>]==]
+	else
+		data[i].string = 
 [==[<snippet>
     <content><![CDATA[]==]..data[i].name..strParamaters..[==[; ]]></content>
     <tabTrigger>]==]..data[i].name..strParamatersRaw..[==[</tabTrigger>
     <scope>source.c++</scope>
     <description>]==]..data[i].returns.." "..data[i].className.."::"..data[i].name..strMethodBracket..[==[</description>
 </snippet>]==]
+	end
 -- 	"<snippet>
 --      <content><![CDATA[ofDrawCone(${1:float radius}, ${2:float height}); ]]></content>
 --      <tabTrigger>ofDrawCone(float radius, float height)</tabTrigger>
@@ -384,3 +413,10 @@ print("\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\")
 for i = 1, #data do
 	OutputData(i)
 end
+
+str = "<>&"
+print(str)
+str = string.gsub(str,"<","&lt;")
+str = string.gsub(str,">","&gt;")
+str = string.gsub(str,"&","&amp;")
+print(str)
