@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTarget(${1:const ofVec3f &target}); ]]></content>
-    <tabTrigger>setTarget(const ofVec3f &target)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void ofEasyCam::setTarget()</description>
-</snippet>

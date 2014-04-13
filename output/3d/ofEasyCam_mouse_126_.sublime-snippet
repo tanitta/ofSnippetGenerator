@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[mouse; ]]></content>
-    <tabTrigger>mouse</tabTrigger>
-    <scope>source.c++</scope>
-    <description>ofVec2f ofEasyCam::mouse</description>
-</snippet>

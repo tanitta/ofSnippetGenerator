@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ofSetConeResolution(${1:int radiusSegments},${2:int heightSegments},${3:int capSegments=2}); ]]></content>
-    <tabTrigger>ofSetConeResolution(int radiusSegments,int heightSegments,int capSegments=2)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void of3dGraphics_f::ofSetConeResolution()</description>
-</snippet>

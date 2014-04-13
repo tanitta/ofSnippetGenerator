@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getNearClip(); ]]></content>
-    <tabTrigger>getNearClip()</tabTrigger>
-    <scope>source.c++</scope>
-    <description>float ofCamera::getNearClip()</description>
-</snippet>

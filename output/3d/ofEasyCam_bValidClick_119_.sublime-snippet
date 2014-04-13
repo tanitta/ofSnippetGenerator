@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[bValidClick; ]]></content>
-    <tabTrigger>bValidClick</tabTrigger>
-    <scope>source.c++</scope>
-    <description>bool ofEasyCam::bValidClick</description>
-</snippet>

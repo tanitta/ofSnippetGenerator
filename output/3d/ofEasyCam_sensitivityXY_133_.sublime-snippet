@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[sensitivityXY; ]]></content>
-    <tabTrigger>sensitivityXY</tabTrigger>
-    <scope>source.c++</scope>
-    <description>float ofEasyCam::sensitivityXY</description>
-</snippet>

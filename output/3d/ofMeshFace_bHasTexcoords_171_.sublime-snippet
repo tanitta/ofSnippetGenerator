@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[bHasTexcoords; ]]></content>
-    <tabTrigger>bHasTexcoords</tabTrigger>
-    <scope>source.c++</scope>
-    <description>bool ofMeshFace::bHasTexcoords</description>
-</snippet>

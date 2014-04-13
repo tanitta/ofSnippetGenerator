@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getFaceNormal(); ]]></content>
-    <tabTrigger>getFaceNormal()</tabTrigger>
-    <scope>source.c++</scope>
-    <description>const ofVec3f & ofMeshFace::getFaceNormal()</description>
-</snippet>

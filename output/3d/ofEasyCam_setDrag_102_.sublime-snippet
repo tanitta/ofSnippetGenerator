@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setDrag(${1:float drag}); ]]></content>
-    <tabTrigger>setDrag(float drag)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void ofEasyCam::setDrag()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ofDrawGrid(${1:float scale=10.0f},${2:float ticks=8.0f},${3:bool labels=false},${4:bool x=true},${5:bool y=true},${6:bool z=true}); ]]></content>
-    <tabTrigger>ofDrawGrid(float scale=10.0f,float ticks=8.0f,bool labels=false,bool x=true,bool y=true,bool z=true)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void of3dUtils_f::ofDrawGrid()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[bDistanceSet; ]]></content>
-    <tabTrigger>bDistanceSet</tabTrigger>
-    <scope>source.c++</scope>
-    <description>bool ofEasyCam::bDistanceSet</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getAspectRatio(); ]]></content>
-    <tabTrigger>getAspectRatio()</tabTrigger>
-    <scope>source.c++</scope>
-    <description>float ofCamera::getAspectRatio()</description>
-</snippet>

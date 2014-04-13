@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isActive; ]]></content>
-    <tabTrigger>isActive</tabTrigger>
-    <scope>source.c++</scope>
-    <description>bool ofCamera::isActive</description>
-</snippet>

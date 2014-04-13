@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[updateTranslation(); ]]></content>
-    <tabTrigger>updateTranslation()</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void ofEasyCam::updateTranslation()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setFarClip(${1:float f}); ]]></content>
-    <tabTrigger>setFarClip(float f)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void ofCamera::setFarClip()</description>
-</snippet>

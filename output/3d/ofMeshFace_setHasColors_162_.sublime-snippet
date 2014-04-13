@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setHasColors(${1:bool bColors}); ]]></content>
-    <tabTrigger>setHasColors(bool bColors)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void ofMeshFace::setHasColors()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[radius; ]]></content>
-    <tabTrigger>radius</tabTrigger>
-    <scope>source.c++</scope>
-    <description>float ofIcoSpherePrimitive::radius</description>
-</snippet>

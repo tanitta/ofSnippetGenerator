@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setHasTexcoords(${1:bool bTexcoords}); ]]></content>
-    <tabTrigger>setHasTexcoords(bool bTexcoords)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void ofMeshFace::setHasTexcoords()</description>
-</snippet>

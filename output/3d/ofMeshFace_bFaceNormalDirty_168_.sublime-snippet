@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[bFaceNormalDirty; ]]></content>
-    <tabTrigger>bFaceNormalDirty</tabTrigger>
-    <scope>source.c++</scope>
-    <description>bool ofMeshFace::bFaceNormalDirty</description>
-</snippet>

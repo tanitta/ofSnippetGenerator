@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ofDrawSphere(${1:const ofPoint &position},${2:float radius}); ]]></content>
-    <tabTrigger>ofDrawSphere(const ofPoint &position,float radius)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void of3dGraphics_f::ofDrawSphere()</description>
-</snippet>

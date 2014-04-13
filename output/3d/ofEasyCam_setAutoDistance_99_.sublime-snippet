@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setAutoDistance(${1:bool bAutoDistance}); ]]></content>
-    <tabTrigger>setAutoDistance(bool bAutoDistance)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void ofEasyCam::setAutoDistance()</description>
-</snippet>

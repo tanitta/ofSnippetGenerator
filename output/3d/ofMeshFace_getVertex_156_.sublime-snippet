@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getVertex(${1:int index}); ]]></content>
-    <tabTrigger>getVertex(int index)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>const ofVec3f & ofMeshFace::getVertex()</description>
-</snippet>

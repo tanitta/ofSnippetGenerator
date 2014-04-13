@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[texCoords; ]]></content>
-    <tabTrigger>texCoords</tabTrigger>
-    <scope>source.c++</scope>
-    <description>ofVec2f ofMeshFace::texCoords</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ofGetIcoSphereResolution(); ]]></content>
-    <tabTrigger>ofGetIcoSphereResolution()</tabTrigger>
-    <scope>source.c++</scope>
-    <description>int of3dGraphics_f::ofGetIcoSphereResolution()</description>
-</snippet>

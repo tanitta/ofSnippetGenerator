@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[begin(${1:ofRectangle viewport=ofGetCurrentViewport()}); ]]></content>
-    <tabTrigger>begin(ofRectangle viewport=ofGetCurrentViewport())</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void ofCamera::begin()</description>
-</snippet>

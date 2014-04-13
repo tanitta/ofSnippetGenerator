@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setMode(${1:ofPrimitiveMode mode}); ]]></content>
-    <tabTrigger>setMode(ofPrimitiveMode mode)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void ofIcoSpherePrimitive::setMode()</description>
-</snippet>

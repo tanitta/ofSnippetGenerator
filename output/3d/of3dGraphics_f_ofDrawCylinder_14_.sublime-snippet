@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ofDrawCylinder(${1:float radius},${2:float height}); ]]></content>
-    <tabTrigger>ofDrawCylinder(float radius,float height)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void of3dGraphics_f::ofDrawCylinder()</description>
-</snippet>

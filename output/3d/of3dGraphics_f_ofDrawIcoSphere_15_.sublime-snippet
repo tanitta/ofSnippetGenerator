@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ofDrawIcoSphere(${1:float x},${2:float y},${3:float z},${4:float radius}); ]]></content>
-    <tabTrigger>ofDrawIcoSphere(float x,float y,float z,float radius)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void of3dGraphics_f::ofDrawIcoSphere()</description>
-</snippet>

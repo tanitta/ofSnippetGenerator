@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[xRot; ]]></content>
-    <tabTrigger>xRot</tabTrigger>
-    <scope>source.c++</scope>
-    <description>float ofEasyCam::xRot</description>
-</snippet>

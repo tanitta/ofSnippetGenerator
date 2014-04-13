@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setResolution(${1:int iterations}); ]]></content>
-    <tabTrigger>setResolution(int iterations)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void ofIcoSpherePrimitive::setResolution()</description>
-</snippet>

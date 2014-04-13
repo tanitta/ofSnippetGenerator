@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[setTexCoord(${1:int index},${2:const ofVec2f &tCoord}); ]]></content>
-    <tabTrigger>setTexCoord(int index,const ofVec2f &tCoord)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void ofMeshFace::setTexCoord()</description>
-</snippet>

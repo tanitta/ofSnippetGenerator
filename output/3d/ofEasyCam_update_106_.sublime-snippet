@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[update(${1:ofEventArgs &args}); ]]></content>
-    <tabTrigger>update(ofEventArgs &args)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void ofEasyCam::update()</description>
-</snippet>

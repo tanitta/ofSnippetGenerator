@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[resolution; ]]></content>
-    <tabTrigger>resolution</tabTrigger>
-    <scope>source.c++</scope>
-    <description>int ofIcoSpherePrimitive::resolution</description>
-</snippet>

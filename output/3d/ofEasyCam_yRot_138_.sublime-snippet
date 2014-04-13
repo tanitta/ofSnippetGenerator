@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[yRot; ]]></content>
-    <tabTrigger>yRot</tabTrigger>
-    <scope>source.c++</scope>
-    <description>float ofEasyCam::yRot</description>
-</snippet>

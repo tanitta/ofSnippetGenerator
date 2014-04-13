@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[farClip; ]]></content>
-    <tabTrigger>farClip</tabTrigger>
-    <scope>source.c++</scope>
-    <description>float ofCamera::farClip</description>
-</snippet>

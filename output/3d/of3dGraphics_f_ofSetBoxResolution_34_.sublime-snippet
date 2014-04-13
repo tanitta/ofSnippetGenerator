@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ofSetBoxResolution(${1:int resWidth},${2:int resHeight},${3:int resDepth}); ]]></content>
-    <tabTrigger>ofSetBoxResolution(int resWidth,int resHeight,int resDepth)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void of3dGraphics_f::ofSetBoxResolution()</description>
-</snippet>

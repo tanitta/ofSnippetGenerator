@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getDistance(); ]]></content>
-    <tabTrigger>getDistance()</tabTrigger>
-    <scope>source.c++</scope>
-    <description>float ofEasyCam::getDistance()</description>
-</snippet>

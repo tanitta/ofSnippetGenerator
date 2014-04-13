@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ofDrawBox(${1:float width},${2:float height},${3:float depth}); ]]></content>
-    <tabTrigger>ofDrawBox(float width,float height,float depth)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void of3dGraphics_f::ofDrawBox()</description>
-</snippet>

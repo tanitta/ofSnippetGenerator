@@ -11,7 +11,18 @@ _documentation/types/
 _documentation/utils/
 _documentation/video/
 
-
+output/3d/
+output/addons/
+output/application/
+output/communication/
+output/events/
+output/gl/
+output/graphics/
+output/math/
+output/sound/
+output/types/
+output/utils/
+output/video/
 #################
 ## Eclipse
 #################

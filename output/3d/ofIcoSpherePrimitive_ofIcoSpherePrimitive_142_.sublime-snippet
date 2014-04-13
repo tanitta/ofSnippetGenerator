@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ofIcoSpherePrimitive(); ]]></content>
-    <tabTrigger>ofIcoSpherePrimitive()</tabTrigger>
-    <scope>source.c++</scope>
-    <description> ofIcoSpherePrimitive::ofIcoSpherePrimitive()</description>
-</snippet>

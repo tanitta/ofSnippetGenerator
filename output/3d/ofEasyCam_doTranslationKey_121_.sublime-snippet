@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[doTranslationKey; ]]></content>
-    <tabTrigger>doTranslationKey</tabTrigger>
-    <scope>source.c++</scope>
-    <description>char ofEasyCam::doTranslationKey</description>
-</snippet>

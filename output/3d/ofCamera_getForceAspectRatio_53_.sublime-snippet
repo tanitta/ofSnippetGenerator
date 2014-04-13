@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getForceAspectRatio(); ]]></content>
-    <tabTrigger>getForceAspectRatio()</tabTrigger>
-    <scope>source.c++</scope>
-    <description>bool ofCamera::getForceAspectRatio()</description>
-</snippet>

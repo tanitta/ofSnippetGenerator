@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[getFov(); ]]></content>
-    <tabTrigger>getFov()</tabTrigger>
-    <scope>source.c++</scope>
-    <description>float ofCamera::getFov()</description>
-</snippet>

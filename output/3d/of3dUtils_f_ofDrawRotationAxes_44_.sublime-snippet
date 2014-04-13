@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ofDrawRotationAxes(${1:float radius},${2:float stripWidth=10},${3:int circleRes=60}); ]]></content>
-    <tabTrigger>ofDrawRotationAxes(float radius,float stripWidth=10,int circleRes=60)</tabTrigger>
-    <scope>source.c++</scope>
-    <description>void of3dUtils_f::ofDrawRotationAxes()</description>
-</snippet>

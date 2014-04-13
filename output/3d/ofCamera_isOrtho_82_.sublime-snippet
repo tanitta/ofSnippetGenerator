@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[isOrtho; ]]></content>
-    <tabTrigger>isOrtho</tabTrigger>
-    <scope>source.c++</scope>
-    <description>bool ofCamera::isOrtho</description>
-</snippet>

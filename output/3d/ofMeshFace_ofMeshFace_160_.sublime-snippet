@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ofMeshFace(); ]]></content>
-    <tabTrigger>ofMeshFace()</tabTrigger>
-    <scope>source.c++</scope>
-    <description> ofMeshFace::ofMeshFace()</description>
-</snippet>

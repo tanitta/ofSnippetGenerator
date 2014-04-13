@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[lastTap; ]]></content>
-    <tabTrigger>lastTap</tabTrigger>
-    <scope>source.c++</scope>
-    <description>unsigned long ofEasyCam::lastTap</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[lastMouse; ]]></content>
-    <tabTrigger>lastMouse</tabTrigger>
-    <scope>source.c++</scope>
-    <description>ofVec2f ofEasyCam::lastMouse</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[ofIcoSpherePrimitive(${1:float radius},${2:int iterations}); ]]></content>
-    <tabTrigger>ofIcoSpherePrimitive(float radius,int iterations)</tabTrigger>
-    <scope>source.c++</scope>
-    <description> ofIcoSpherePrimitive::ofIcoSpherePrimitive()</description>
-</snippet>

@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[cameraToWorld(${1:ofVec3f CameraXYZ},${2:ofRectangle viewport=ofGetCurrentViewport()}); ]]></content>
-    <tabTrigger>cameraToWorld(ofVec3f CameraXYZ,ofRectangle viewport=ofGetCurrentViewport())</tabTrigger>
-    <scope>source.c++</scope>
-    <description>ofVec3f ofCamera::cameraToWorld()</description>
-</snippet>
